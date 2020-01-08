@@ -12,4 +12,4 @@
 * Pour un public plus pointu
 * Orientées vers les autres communautés
 
-[Retour](../README)
+[Retour](../)
