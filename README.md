@@ -26,5 +26,23 @@ Avant, vers les années **2008** il y avait **Dakar Linux Users Group** ***[daka
 * Canal Telegram : [https://t.me/linuxsenegal](https://t.me/linuxsenegal)
 
 ## Liste de diffusion
+![alt text](images/meetup.svg "meetup")
+* Inscrivez-vous à la **[liste de diffusion sur Meetup](https://www.meetup.com/fr-FR/Linux-Senegal/)** pour recevoir des informations sur les activités de Linux Sénégal.
+* Après votre inscription, vous pouvez aussi diffuser, partager de l'information ou même demander de l'aide en envoyant un email à linux-senegal-list@meetup.com.
+
+### Recommandation sur la liste de diffusion
+
+Merci d'envoyer des informations qui ont une relation avec les activités de Linux Sénégal
+
 
 ## Groupe de discussion
+![alt text](images/telegram.svg "meetup")
+* Rejoignez les membres dans **[notre groupe de discussion sur Telegram](https://t.me/joinchat/FTjDLAxwTtQtGKH58Dz2WA)**, échanger en temps réel depuis votre mobile et faites vous de nouveaux amis.
+
+### Recommandation sur Telegram
+
+* ***Envoyez des photos sur Telegram***. Merci de vous servire du site [https://framapic.org/](https://framapic.org/) pour partager des images dans le groupee
+
+* **Envoyez des fichiers***. Merci de vous servire du site [https://framadrop.org/](https://framadrop.org/) ou de [https://send.firefox.com/](https://send.firefox.com/)
+
+
