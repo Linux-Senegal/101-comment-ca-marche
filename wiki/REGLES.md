@@ -7,3 +7,5 @@
 ## Prendre des décisions
 
 2) Si vous faites quelque chose d'important, demandez d'abord à la liste de diffusion.
+
+[Retour](../)
