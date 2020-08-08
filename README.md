@@ -37,7 +37,7 @@ Merci d'envoyer des informations qui ont une relation avec les activités de Lin
 
 ## Groupe de discussion
 ![alt text](images/telegram.svg "meetup")
-* Rejoignez les membres dans **[notre groupe de discussion sur Telegram](https://t.me/joinchat/FTjDLAxwTtQtGKH58Dz2WA)**, échanger en temps réel depuis votre mobile et faites vous de nouveaux amis.
+* Rejoignez les membres dans **[notre groupe de discussion sur Telegram](https://t.me/joinchat/FTjDLE3r59uTxAIGVD-Twg)**, échanger en temps réel depuis votre mobile et faites vous de nouveaux amis.
 
 * Ne ratez surtout pas notre **[Canal Telegram](https://t.me/linuxsenegal)**, toute l'Actualité Open Source et logiciels libres.
 
