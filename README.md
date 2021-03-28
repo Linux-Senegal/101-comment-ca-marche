@@ -7,10 +7,10 @@ Bienvenue cher Membres à l'aide en ligne de la communauté Linux Sénégal.
 ## Comment çà a commencé
 Avant, vers les années **2008** il y avait **Dakar Linux Users Group** ***[dakarlug.github.io](https://dakarlug.github.io)***, qui concentre ces activités sur Dakar. Vers **2015** des membres du **Dakarlug** ont créé la communauté **Linux Sénégal** pour fédérer les **LUG** du Sénégal comme celle de la région de **Thiès LUG** et des autres régions du Sénégal.
 
-* [Ce que nous faisons](wiki/ACTIVITES)
+* [Ce que nous faisons](wiki/ACTIVITES.md)
 * [Adhésion](wiki/ADHESION.md)
-* [Comment çà fonctionne](wiki/FONCTIONNENT)
-* [Nos moyens](wiki/MOYENS)
+* [Comment çà fonctionne](wiki/FONCTIONNENT.md)
+* [Nos moyens](wiki/MOYENS.md)
 * [Ce que nous avons déjà fait](https://www.meetup.com/fr-FR/Linux-Senegal/events/past/)
 
 ## Guides et règles
