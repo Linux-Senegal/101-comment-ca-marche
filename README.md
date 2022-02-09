@@ -20,6 +20,7 @@ Avant, vers les années **2008** il y avait **Dakar Linux Users Group** ***[daka
 
 ## Où nous trouver 
 * Meetup : [https://www.meetup.com/fr-FR/Linux-Senegal/](https://www.meetup.com/fr-FR/Linux-Senegal/)
+* Linkedin : [https://www.linkedin.com/groups/1734177/](https://www.linkedin.com/groups/1734177/)
 * Twitter : [https://twitter.com/linuxsenegal/](https://twitter.com/linuxsenegal/)
 * Facebook : [https://www.facebook.com/linuxsenegal](https://www.facebook.com/linuxsenegal)
 * Groupe Telegram : [https://t.me/joinchat/FTjDLAxwTtQtGKH58Dz2WA](https://t.me/joinchat/FTjDLAxwTtQtGKH58Dz2WA)
